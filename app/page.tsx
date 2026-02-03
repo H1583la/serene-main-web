@@ -44,7 +44,7 @@ export default function Home() {
               <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center">
                 <Shield className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold text-primary">TechSerenity</span>
+              <span className="text-xl font-bold text-primary">Serene Technologies </span>
             </div>
 
             {/* Desktop Menu */}
@@ -189,7 +189,7 @@ export default function Home() {
                   <Mail className="w-6 h-6 text-primary mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-semibold">Email</p>
-                    <p className="text-muted-foreground">hello@techserenity.ai</p>
+                    <p className="text-muted-foreground">hello@Serene Technologies .ai</p>
                   </div>
                 </div>
                 <div className="flex gap-4 items-start">
@@ -262,7 +262,7 @@ export default function Home() {
                 <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center">
                   <Shield className="w-5 h-5 text-primary-foreground" />
                 </div>
-                <span className="text-lg font-bold text-primary">TechSerenity</span>
+                <span className="text-lg font-bold text-primary">Serene Technologies </span>
               </div>
               <p className="text-sm text-muted-foreground">Smart technology solutions for the modern world.</p>
             </div>
@@ -292,7 +292,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-border pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
-            <p className="text-sm text-muted-foreground">© 2024 TechSerenity. All rights reserved.</p>
+            <p className="text-sm text-muted-foreground">© 2024 Serene Technologies . All rights reserved.</p>
             <div className="flex gap-4">
               <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">Twitter</Link>
               <Link href="#" className="text-muted-foreground hover:text-primary transition-colors">LinkedIn</Link>

@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'TechSerenity - Smart Technology Solutions',
+  title: 'Serene Technologies  - Smart Technology Solutions',
   description: 'Professional CCTV installation, WiFi solutions, and cyber security services for your peace of mind.',
   generator: 'v0.app',
   icons: {
